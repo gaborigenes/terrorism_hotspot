@@ -1,6 +1,11 @@
 # terrorism_hotspot
 
-Personal project for improve data analysis tools like Python, SQL, Power BI and Excel. This data project has been used as an assignment during the LGM Data Science Virtual Internship and can be found in https://platform.stratascratch.com/data-projects/terrorism-hotspots
+Personal project for improve data analysis tools like Python, SQL, Power BI and Excel. This data project has been used as an assignment during the LGM Data Science Virtual Internship and can be found in https://platform.stratascratch.com/data-projects/terrorism-hotspots.
+
+To practice my data analysis tools i'll post a solution using 
+- Microsoft Excel with power pivot and power Query
+- Microsoft SQL Server
+- Python using jupyter Notebooks
 
 # Assignment
 Imagine you are a security or defense analyst. Analyze the data and draw conclusions on the distribution and nature of terrorist incidents recorded around the world. In your analysis, include maps that visualize the location of different incidents. Your analysis may also provide answers to the following questions:
